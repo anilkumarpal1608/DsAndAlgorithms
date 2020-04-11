@@ -16,6 +16,7 @@ public class SumOfNNumbers {
 		SumOfNNumbers s = new SumOfNNumbers();
 		
 		System.out.println("Sum:"+s.getSumofNNumbers(n));
+		System.out.println("Result Given");
 	}
 
 }
